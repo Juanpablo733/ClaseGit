@@ -1,7 +1,10 @@
 body{
     background-repeat: no-repeat;
     background-size: 100% 100vh;
+    margin: 0%;
 }
+
+/*Estos son los estilos del header*/
 
 .header{
     width: 100%;
